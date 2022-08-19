@@ -2,4 +2,20 @@ body{
     color: deeppink;
     text-align: center;
     font-family: Arial;
+    
+}
+section{
+    border: 5px solid red;
+    margin: 100px;
+    border-radius: 25%;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+h6{
+    font-size: 30px;
 }
