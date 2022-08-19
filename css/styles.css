@@ -10,7 +10,7 @@ header{
     display: flex;
     justify-content: space-between;
     background-color: green;
-    color: white;
+    color: rgb(248, 0, 0);
 }
 header img{
     width: 80px;
